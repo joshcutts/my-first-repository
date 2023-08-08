@@ -1,10 +1,11 @@
-# README #
-# Learning Git
+# README
+## Learning Git
 
-#Table of Contents
+Table of Contents
+
 example_file.txt
 
-Helo world, I love using git!
+Hello world, I love using git!
 
 Important steps for git workflow:
 
